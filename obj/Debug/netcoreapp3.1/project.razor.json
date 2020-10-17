@@ -197,59 +197,6 @@
         }
       },
       {
-        "HashCode": -1073309015,
-        "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.RegistroMora",
-        "AssemblyName": "Registro_Detalle",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "RegistroMora"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "MoraId",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "MoraId"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.RegistroMora"
-        }
-      },
-      {
-        "HashCode": -1332609183,
-        "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.RegistroMora",
-        "AssemblyName": "Registro_Detalle",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Registro_Detalle.Pages.RegistroMora"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "MoraId",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "MoraId"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.RegistroMora",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -771385460,
         "Kind": "Components.Component",
         "Name": "Registro_Detalle.Pages.RegistroPersonas",
@@ -299,6 +246,59 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Registro_Detalle.Pages.RegistroPersonas",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1073309015,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Pages.RegistroMora",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RegistroMora"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "MoraId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "MoraId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Pages.RegistroMora"
+        }
+      },
+      {
+        "HashCode": -1332609183,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Pages.RegistroMora",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registro_Detalle.Pages.RegistroMora"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "MoraId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "MoraId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Pages.RegistroMora",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
