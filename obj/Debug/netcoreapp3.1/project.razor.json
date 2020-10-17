@@ -78,39 +78,6 @@
         }
       },
       {
-        "HashCode": -309091509,
-        "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.FetchData",
-        "AssemblyName": "Registro_Detalle",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 2017385351,
-        "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.FetchData",
-        "AssemblyName": "Registro_Detalle",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Registro_Detalle.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1933679531,
         "Kind": "Components.Component",
         "Name": "Registro_Detalle.Pages.Index",
@@ -246,6 +213,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Registro_Detalle.Pages.RegistroPrestamo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -309091509,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Pages.FetchData",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 2017385351,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Pages.FetchData",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registro_Detalle.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
