@@ -250,59 +250,6 @@
         }
       },
       {
-        "HashCode": 1317110876,
-        "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.Moras",
-        "AssemblyName": "Registro_Detalle",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Moras"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "MoraId",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "MoraId"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.Moras"
-        }
-      },
-      {
-        "HashCode": -668260150,
-        "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.Moras",
-        "AssemblyName": "Registro_Detalle",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Registro_Detalle.Pages.Moras"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "MoraId",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "MoraId"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.Moras",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -949205974,
         "Kind": "Components.Component",
         "Name": "Registro_Detalle.Shared.MainLayout",
@@ -15224,11 +15171,6 @@
     {
       "FilePath": "/Users/miguelgondres/Projects/Registro_Detalle/Pages/RegistroPrestamo.razor",
       "TargetPath": "Pages\\RegistroPrestamo.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/miguelgondres/Projects/Registro_Detalle/Pages/Moras.razor",
-      "TargetPath": "Pages\\Moras.razor",
       "FileKind": "component"
     },
     {
