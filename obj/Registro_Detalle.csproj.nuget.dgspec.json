@@ -53,6 +53,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.8.0-preview-20200921-01, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
             }
           },
           "imports": [
