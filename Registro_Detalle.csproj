@@ -2,6 +2,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <StartWorkingDirectory>$(MSBuildProjectDirectory)</StartWorkingDirectory>
+    <GenerateProgramFile>false</GenerateProgramFile>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Blazored.Toast" Version="3.1.2"/>
