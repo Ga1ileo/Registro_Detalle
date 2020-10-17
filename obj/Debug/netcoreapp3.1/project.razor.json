@@ -144,7 +144,7 @@
         }
       },
       {
-        "HashCode": 46394805,
+        "HashCode": 1200781223,
         "Kind": "Components.Component",
         "Name": "Registro_Detalle.Pages.PrestamosUI",
         "AssemblyName": "Registro_Detalle",
@@ -154,13 +154,23 @@
             "TagName": "PrestamosUI"
           }
         ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "PrestamosId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "PrestamosId"
+            }
+          }
+        ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Registro_Detalle.Pages.PrestamosUI"
         }
       },
       {
-        "HashCode": -1153493314,
+        "HashCode": -1060283197,
         "Kind": "Components.Component",
         "Name": "Registro_Detalle.Pages.PrestamosUI",
         "AssemblyName": "Registro_Detalle",
@@ -168,6 +178,16 @@
         "TagMatchingRules": [
           {
             "TagName": "Registro_Detalle.Pages.PrestamosUI"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "PrestamosId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "PrestamosId"
+            }
           }
         ],
         "Metadata": {
