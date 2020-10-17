@@ -144,6 +144,59 @@
         }
       },
       {
+        "HashCode": -771385460,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Pages.RegistroPersonas",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RegistroPersonas"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "PersonaId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "PersonaId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Pages.RegistroPersonas"
+        }
+      },
+      {
+        "HashCode": 810041628,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Pages.RegistroPersonas",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registro_Detalle.Pages.RegistroPersonas"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "PersonaId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "PersonaId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Pages.RegistroPersonas",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -99787058,
         "Kind": "Components.Component",
         "Name": "Registro_Detalle.Pages.RegistroPrestamo",
@@ -15103,6 +15156,11 @@
     {
       "FilePath": "/Users/miguelgondres/Projects/Registro_Detalle/Pages/FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/miguelgondres/Projects/Registro_Detalle/Pages/RegistroPersonas.razor",
+      "TargetPath": "Pages\\RegistroPersonas.razor",
       "FileKind": "component"
     },
     {
