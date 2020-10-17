@@ -144,6 +144,39 @@
         }
       },
       {
+        "HashCode": 46394805,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Pages.PrestamosUI",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PrestamosUI"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Pages.PrestamosUI"
+        }
+      },
+      {
+        "HashCode": -1153493314,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Pages.PrestamosUI",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registro_Detalle.Pages.PrestamosUI"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Pages.PrestamosUI",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -949205974,
         "Kind": "Components.Component",
         "Name": "Registro_Detalle.Shared.MainLayout",
@@ -15065,6 +15098,11 @@
     {
       "FilePath": "/Users/miguelgondres/Projects/Registro_Detalle/Pages/Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/miguelgondres/Projects/Registro_Detalle/Pages/PrestamosUI.razor",
+      "TargetPath": "Pages\\PrestamosUI.razor",
       "FileKind": "component"
     },
     {
