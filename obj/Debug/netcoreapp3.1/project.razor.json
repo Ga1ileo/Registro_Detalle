@@ -78,6 +78,39 @@
         }
       },
       {
+        "HashCode": -309091509,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Pages.FetchData",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 2017385351,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Pages.FetchData",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registro_Detalle.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1933679531,
         "Kind": "Components.Component",
         "Name": "Registro_Detalle.Pages.Index",
@@ -217,35 +250,35 @@
         }
       },
       {
-        "HashCode": -309091509,
+        "HashCode": 489571671,
         "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.FetchData",
+        "Name": "Registro_Detalle.Pages.RegistroMora",
         "AssemblyName": "Registro_Detalle",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FetchData"
+            "TagName": "RegistroMora"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.FetchData"
+          "Common.TypeName": "Registro_Detalle.Pages.RegistroMora"
         }
       },
       {
-        "HashCode": 2017385351,
+        "HashCode": -61439631,
         "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.FetchData",
+        "Name": "Registro_Detalle.Pages.RegistroMora",
         "AssemblyName": "Registro_Detalle",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Registro_Detalle.Pages.FetchData"
+            "TagName": "Registro_Detalle.Pages.RegistroMora"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.FetchData",
+          "Common.TypeName": "Registro_Detalle.Pages.RegistroMora",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -346,6 +379,39 @@
         }
       },
       {
+        "HashCode": -420436902,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Shared.NavMenu",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 732874858,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Shared.NavMenu",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registro_Detalle.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1569168418,
         "Kind": "Components.Component",
         "Name": "Registro_Detalle.Shared.SurveyPrompt",
@@ -395,39 +461,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Registro_Detalle.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -420436902,
-        "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Shared.NavMenu",
-        "AssemblyName": "Registro_Detalle",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 732874858,
-        "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Shared.NavMenu",
-        "AssemblyName": "Registro_Detalle",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Registro_Detalle.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -15187,6 +15220,11 @@
       "FilePath": "/Users/miguelgondres/Projects/Registro_Detalle/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/miguelgondres/Projects/Registro_Detalle/Pages/RegistroMora.razor",
+      "TargetPath": "Pages\\RegistroMora.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "/Users/miguelgondres/Projects/Registro_Detalle/_Imports.razor",
