@@ -144,59 +144,6 @@
         }
       },
       {
-        "HashCode": 1200781223,
-        "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.PrestamosUI",
-        "AssemblyName": "Registro_Detalle",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PrestamosUI"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "PrestamosId",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "PrestamosId"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.PrestamosUI"
-        }
-      },
-      {
-        "HashCode": -1060283197,
-        "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.PrestamosUI",
-        "AssemblyName": "Registro_Detalle",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Registro_Detalle.Pages.PrestamosUI"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "PrestamosId",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "PrestamosId"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.PrestamosUI",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -949205974,
         "Kind": "Components.Component",
         "Name": "Registro_Detalle.Shared.MainLayout",
@@ -15118,11 +15065,6 @@
     {
       "FilePath": "/Users/miguelgondres/Projects/Registro_Detalle/Pages/Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Users/miguelgondres/Projects/Registro_Detalle/Pages/PrestamosUI.razor",
-      "TargetPath": "Pages\\PrestamosUI.razor",
       "FileKind": "component"
     },
     {

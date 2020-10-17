@@ -66,6 +66,7 @@
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Counter.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/FetchData.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/PrestamosUI.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
@@ -78,6 +79,7 @@
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Pages/Counter.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Pages/FetchData.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Pages/Index.razor.g.cs
+/Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Pages/PrestamosUI.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Shared/MainLayout.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Shared/NavMenu.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Shared/SurveyPrompt.razor.g.cs
@@ -95,5 +97,3 @@
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Registro_Detalle.dll
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Registro_Detalle.pdb
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Registro_Detalle.genruntimeconfig.cache
-/Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/PrestamosUI.razor.g.cs
-/Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Pages/PrestamosUI.razor.g.cs
