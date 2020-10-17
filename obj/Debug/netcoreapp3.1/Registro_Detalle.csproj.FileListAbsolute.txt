@@ -66,6 +66,7 @@
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Counter.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/FetchData.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/RegistroPrestamo.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/MainLayout.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/NavMenu.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
@@ -78,6 +79,7 @@
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Pages/Counter.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Pages/FetchData.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Pages/Index.razor.g.cs
+/Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Pages/RegistroPrestamo.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Shared/MainLayout.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Shared/NavMenu.razor.g.cs
 /Users/miguelgondres/Projects/Registro_Detalle/obj/Debug/netcoreapp3.1/Razor/Shared/SurveyPrompt.razor.g.cs
