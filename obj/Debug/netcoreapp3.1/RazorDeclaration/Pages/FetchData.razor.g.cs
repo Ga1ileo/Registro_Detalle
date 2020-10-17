@@ -77,6 +77,20 @@ using Registro_Detalle.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 10 "/Users/miguelgondres/Projects/Registro_Detalle/_Imports.razor"
+using Blazored.Toast;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 11 "/Users/miguelgondres/Projects/Registro_Detalle/_Imports.razor"
+using Blazored.Toast.Services;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "/Users/miguelgondres/Projects/Registro_Detalle/Pages/FetchData.razor"
 using Registro_Detalle.Data;
 
