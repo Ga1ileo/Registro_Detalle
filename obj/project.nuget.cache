@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rhO/tPbA3a3VtkpfIqQP/F7d20KxsB4LmuJ7PMgu3R2wWrAsXC+aiNndE6donty1oFgRH40wBZSAWe/voPyXzg==",
+  "dgSpecHash": "1Zzrk7a1N1A3Hw3gaffIyJonIGlIDXNrFDlkijlrJgihlBdtanaGbXtXjZay9/iQ7HGvPgVddRSEU3x8Zzds4w==",
   "success": true,
   "projectFilePath": "/Users/miguelgondres/Projects/Registro_Detalle/Registro_Detalle.csproj",
   "expectedPackageFiles": [
@@ -132,7 +132,8 @@
     "/Users/miguelgondres/.nuget/packages/xunit.assert/2.4.1/xunit.assert.2.4.1.nupkg.sha512",
     "/Users/miguelgondres/.nuget/packages/xunit.core/2.4.1/xunit.core.2.4.1.nupkg.sha512",
     "/Users/miguelgondres/.nuget/packages/xunit.extensibility.core/2.4.1/xunit.extensibility.core.2.4.1.nupkg.sha512",
-    "/Users/miguelgondres/.nuget/packages/xunit.extensibility.execution/2.4.1/xunit.extensibility.execution.2.4.1.nupkg.sha512"
+    "/Users/miguelgondres/.nuget/packages/xunit.extensibility.execution/2.4.1/xunit.extensibility.execution.2.4.1.nupkg.sha512",
+    "/Users/miguelgondres/.nuget/packages/xunit.runner.visualstudio/2.4.3/xunit.runner.visualstudio.2.4.3.nupkg.sha512"
   ],
   "logs": []
 }
