@@ -144,6 +144,59 @@
         }
       },
       {
+        "HashCode": -99787058,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Pages.RegistroPrestamo",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RegistroPrestamo"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "PrestamosId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "PrestamosId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Pages.RegistroPrestamo"
+        }
+      },
+      {
+        "HashCode": 94027691,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Pages.RegistroPrestamo",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registro_Detalle.Pages.RegistroPrestamo"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "PrestamosId",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "PrestamosId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Pages.RegistroPrestamo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1073309015,
         "Kind": "Components.Component",
         "Name": "Registro_Detalle.Pages.RegistroMora",
@@ -246,59 +299,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Registro_Detalle.Pages.RegistroPersonas",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -99787058,
-        "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.RegistroPrestamo",
-        "AssemblyName": "Registro_Detalle",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "RegistroPrestamo"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "PrestamosId",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "PrestamosId"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.RegistroPrestamo"
-        }
-      },
-      {
-        "HashCode": 94027691,
-        "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.RegistroPrestamo",
-        "AssemblyName": "Registro_Detalle",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Registro_Detalle.Pages.RegistroPrestamo"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "PrestamosId",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "PrestamosId"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.RegistroPrestamo",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
