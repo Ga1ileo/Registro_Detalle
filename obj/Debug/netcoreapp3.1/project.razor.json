@@ -144,55 +144,55 @@
         }
       },
       {
-        "HashCode": -99787058,
+        "HashCode": -1073309015,
         "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.RegistroPrestamo",
+        "Name": "Registro_Detalle.Pages.RegistroMora",
         "AssemblyName": "Registro_Detalle",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "RegistroPrestamo"
+            "TagName": "RegistroMora"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "PrestamosId",
+            "Name": "MoraId",
             "TypeName": "System.Int32",
             "Metadata": {
-              "Common.PropertyName": "PrestamosId"
+              "Common.PropertyName": "MoraId"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.RegistroPrestamo"
+          "Common.TypeName": "Registro_Detalle.Pages.RegistroMora"
         }
       },
       {
-        "HashCode": 94027691,
+        "HashCode": -1332609183,
         "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.RegistroPrestamo",
+        "Name": "Registro_Detalle.Pages.RegistroMora",
         "AssemblyName": "Registro_Detalle",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Registro_Detalle.Pages.RegistroPrestamo"
+            "TagName": "Registro_Detalle.Pages.RegistroMora"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "PrestamosId",
+            "Name": "MoraId",
             "TypeName": "System.Int32",
             "Metadata": {
-              "Common.PropertyName": "PrestamosId"
+              "Common.PropertyName": "MoraId"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.RegistroPrestamo",
+          "Common.TypeName": "Registro_Detalle.Pages.RegistroMora",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -250,55 +250,55 @@
         }
       },
       {
-        "HashCode": -1073309015,
+        "HashCode": -99787058,
         "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.RegistroMora",
+        "Name": "Registro_Detalle.Pages.RegistroPrestamo",
         "AssemblyName": "Registro_Detalle",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "RegistroMora"
+            "TagName": "RegistroPrestamo"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "MoraId",
+            "Name": "PrestamosId",
             "TypeName": "System.Int32",
             "Metadata": {
-              "Common.PropertyName": "MoraId"
+              "Common.PropertyName": "PrestamosId"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.RegistroMora"
+          "Common.TypeName": "Registro_Detalle.Pages.RegistroPrestamo"
         }
       },
       {
-        "HashCode": -1332609183,
+        "HashCode": 94027691,
         "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Pages.RegistroMora",
+        "Name": "Registro_Detalle.Pages.RegistroPrestamo",
         "AssemblyName": "Registro_Detalle",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Registro_Detalle.Pages.RegistroMora"
+            "TagName": "Registro_Detalle.Pages.RegistroPrestamo"
           }
         ],
         "BoundAttributes": [
           {
             "Kind": "Components.Component",
-            "Name": "MoraId",
+            "Name": "PrestamosId",
             "TypeName": "System.Int32",
             "Metadata": {
-              "Common.PropertyName": "MoraId"
+              "Common.PropertyName": "PrestamosId"
             }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Pages.RegistroMora",
+          "Common.TypeName": "Registro_Detalle.Pages.RegistroPrestamo",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -399,6 +399,39 @@
         }
       },
       {
+        "HashCode": -420436902,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Shared.NavMenu",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 732874858,
+        "Kind": "Components.Component",
+        "Name": "Registro_Detalle.Shared.NavMenu",
+        "AssemblyName": "Registro_Detalle",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Registro_Detalle.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Registro_Detalle.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1569168418,
         "Kind": "Components.Component",
         "Name": "Registro_Detalle.Shared.SurveyPrompt",
@@ -448,39 +481,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Registro_Detalle.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -420436902,
-        "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Shared.NavMenu",
-        "AssemblyName": "Registro_Detalle",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 732874858,
-        "Kind": "Components.Component",
-        "Name": "Registro_Detalle.Shared.NavMenu",
-        "AssemblyName": "Registro_Detalle",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Registro_Detalle.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Registro_Detalle.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
