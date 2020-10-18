@@ -189,5 +189,3 @@
 /Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 /Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 /Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
-/Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/Registro_Detalle.Tests/obj/project.assets.json
-/Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/Registro_Detalle.Tests/obj/Registro_Detalle.Tests.csproj.nuget.dgspec.json
