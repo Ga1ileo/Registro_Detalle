@@ -5721,11 +5721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/miguelgondres/Projects/Registro_Detalle/Registro_DetalleTest/Registro_DetalleTest.csproj",
-      "projectName": "Registro_DetalleTest",
-      "projectPath": "/Users/miguelgondres/Projects/Registro_Detalle/Registro_DetalleTest/Registro_DetalleTest.csproj",
+      "projectUniqueName": "/Users/miguelgondres/Projects/Registro_Detalle/Registro_Detalle.Tests/Registro_Detalle.Tests.csproj",
+      "projectName": "Registro_Detalle.Tests",
+      "projectPath": "/Users/miguelgondres/Projects/Registro_Detalle/Registro_Detalle.Tests/Registro_Detalle.Tests.csproj",
       "packagesPath": "/Users/miguelgondres/.nuget/packages/",
-      "outputPath": "/Users/miguelgondres/Projects/Registro_Detalle/Registro_DetalleTest/obj/",
+      "outputPath": "/Users/miguelgondres/Projects/Registro_Detalle/Registro_Detalle.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/miguelgondres/.nuget/NuGet/NuGet.Config"

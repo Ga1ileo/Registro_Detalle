@@ -184,10 +184,10 @@
 /Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-/Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/Registro_DetalleTest/obj/project.assets.json
-/Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/Registro_DetalleTest/obj/Registro_DetalleTest.csproj.nuget.dgspec.json
 /Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 /Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 /Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 /Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 /Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/Registro_Detalle.Tests/obj/project.assets.json
+/Users/miguelgondres/Projects/Registro_Detalle/bin/Debug/netcoreapp3.1/Registro_Detalle.Tests/obj/Registro_Detalle.Tests.csproj.nuget.dgspec.json
