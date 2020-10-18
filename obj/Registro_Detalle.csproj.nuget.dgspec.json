@@ -54,6 +54,18 @@
               "target": "Package",
               "version": "[16.8.0-preview-20200921-01, )"
             },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit.Console": {
+              "target": "Package",
+              "version": "[3.11.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
             "xunit": {
               "target": "Package",
               "version": "[2.4.1, )"
